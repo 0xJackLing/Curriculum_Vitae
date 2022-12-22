@@ -1,9 +1,11 @@
+<font face="Times New Roman">
+
 ## LING Shengchen
 
 Tel: +852 4613 4000   
 Email: shengling2-c@my.cityu.edu.hk
 
----
+
 
 ### EDUCATION
 
@@ -17,7 +19,7 @@ GPA
 B.E. Computer Science and Technology, School of Computer and Communication Engineering    
 GPA 3.04, Average Score 80.4 
 
----
+
 
 ### RESEARCH EXPERIENCE
 
@@ -28,7 +30,7 @@ Research Intern of Project: _The Whole-Process Supply-chain Quality Management o
 * Research on application of Hyperledger Fabric blockchain to the field of civil engineering for supply-chain
 quality management, especially for the proof of inspection reports, and design a new structure based on real demands among various parties to replace the traditional centralized ones, using smart contracts to implement quality compliance reviews.
 
----
+
 
 ### INTERNSHIP EXPERIENCE
 
@@ -39,7 +41,7 @@ Research & Operation of Conflux Hydra hard fork and Mainnet routine maintenance,
 * Organize 24 rounds of community beta tests for the [hard fork version binaries](https://github.com/conflux-fans/Conflux-PoS-test/releases) and give feedbacks. The hard fork is mainly for introducing finality via voting on a stand-alone PoS chain to protect against potential 51% attacks from PoW, and introducing a fully EVM compatible space parallel to previous blockchain.
 * Assist in providing technical support to Developers Community, especially in [technical documentations](https://forum.conflux.fun/t/conflux/11990), tutorials, and translations. Assist in reviewing and Incubating ecosystem projects on Conflux.
 
----
+
 
 ### PROJECT EXPERIENCE
 
@@ -56,7 +58,7 @@ Provincial Project, No. 2021H030110, Advisor: Mr. YU Qilong.
 
 * Research on implementation of Chainlink Oracle based on previous blockchain study, to solve the problem of actively obtaining off-chain data, specifically in this project, IoT data.
 
----
+
 
 ### POPULAR SCIENCE PUBLICATION
 
@@ -64,6 +66,7 @@ Provincial Project, No. 2021H030110, Advisor: Mr. YU Qilong.
 
 Author on Chapter 3 “_The core technology of Web3 – Blockchain_” and Chapter 4.1 “_NFT standards_”, including introductions on consensus mechanisms, typical blockchains, cross-chain bridges & oracles, decentralized storage, blockchain security and NFT standards.    
 
+</font>
 
-
+<font face="Times New Roman">test</font>
 
