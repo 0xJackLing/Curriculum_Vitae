@@ -3,21 +3,21 @@
 
 ## LING Shengchen
 
-<font face="Times New Roman" size=3>Tel: +852 4613 4000</font>         
-<font face="Times New Roman" size=3>Email: shengling2-c@my.cityu.edu.hk</font>      
+<font face="Times New Roman" size=4>Tel: +852 4613 4000</font>         
+<font face="Times New Roman" size=4>Email: shengling2-c@my.cityu.edu.hk</font>      
 
 
 
-### <font face="Times New Roman" size=1>EDUCATION</font>
+### <font face="Times New Roman" size=6>EDUCATION</font>
 
-#### <font face="Times New Roman" size=2>City University of Hong Kong (2022.08 - 2023.06)</font> 
+#### <font face="Times New Roman" size=5>City University of Hong Kong (2022.08 - 2023.06)</font> 
 
-<font face="Times New Roman" size=3>M.S. Electronic Commerce, Department of Computer Science</font>      
+<font face="Times New Roman" size=3>M.S. Electronic Commerce, Department of Computer Science</font> </br>     
 <font face="Times New Roman" size=3>GPA</font>    
 
 #### Northeastern University, China (2018.09 - 2022.06)
 
-<font face="Times New Roman" size=3>B.E. Computer Science and Technology, School of Computer and Communication Engineering</font>       
+<font face="Times New Roman" size=3>B.E. Computer Science and Technology, School of Computer and Communication Engineering</font></br>       
 <font face="Times New Roman" size=3>GPA 3.04, Average Score 80.4</font>    
 
 
@@ -26,7 +26,7 @@
 
 #### Shanghai Jiao Tong University, Institute of Engineering Management (2021.06 - 2021.08)
 
-<font face="Times New Roman" size=3>Research Intern of Project: _The Whole-Process Supply-chain Quality Management of Engineering Materials Based on Information Flow_, Supervisor: Prof. XU Feng, Prof. HU Hao, Advisor: Mr. WANG Wen.</font>        
+<font face="Times New Roman" size=3>Research Intern of Project: </font>_<font face="Times New Roman" size=3>The Whole-Process Supply-chain Quality Management of Engineering Materials Based on Information Flow</font>_<font face="Times New Roman" size=3>, Supervisor: Prof. XU Feng, Prof. HU Hao, Advisor: Mr. WANG Wen.</font>        
 
 * <font face="Times New Roman" size=3>Research on application of Hyperledger Fabric blockchain to the field of civil engineering for supply-chain quality management, especially for the proof of inspection reports, and design a new structure based on real demands among various parties to replace the traditional centralized ones, using smart contracts to implement quality compliance reviews.</font>   
 
@@ -38,8 +38,8 @@
 
 <font face="Times New Roman" size=3>Research & Operation of Conflux Hydra hard fork and Mainnet routine maintenance, Supervisor: Dr. LONG Fan, Advisor: Mr. WANG Zhenghao.</font>       
 
-* <font face="Times New Roman" size=3>Organize 24 rounds of community beta tests for the [hard fork version binaries](https://github.com/conflux-fans/Conflux-PoS-test/releases) and give feedbacks. The hard fork is mainly for introducing finality via voting on a stand-alone PoS chain to protect against potential 51% attacks from PoW, and introducing a fully EVM compatible space parallel to previous blockchain.</font>   
-* <font face="Times New Roman" size=3>Assist in providing technical support to Developers Community, especially in [technical documentations](https://forum.conflux.fun/t/conflux/11990), tutorials, and translations. Assist in reviewing and Incubating ecosystem projects on Conflux.</font>   
+* <font face="Times New Roman" size=3>Organize 24 rounds of community beta tests for the </font>[<font face="Times New Roman" size=3>hard fork version binaries</font>](https://github.com/conflux-fans/Conflux-PoS-test/releases)<font face="Times New Roman" size=3> and give feedbacks. The hard fork is mainly for introducing finality via voting on a stand-alone PoS chain to protect against potential 51% attacks from PoW, and introducing a fully EVM compatible space parallel to previous blockchain.</font>   
+* <font face="Times New Roman" size=3>Assist in providing technical support to Developers Community, especially in </font>[<font face="Times New Roman" size=3>technical documentations</font>](https://forum.conflux.fun/t/conflux/11990)<font face="Times New Roman" size=3>, tutorials, and translations. Assist in reviewing and Incubating ecosystem projects on Conflux.</font>   
 
 
 
