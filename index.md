@@ -38,7 +38,7 @@ Research & Operation of Conflux Hydra hard fork and Mainnet routine maintenance,
 
 ### A Secure Data Sharing Platform Based on Blockchain+IPFS+SM2 Algorithm (2020.09 - 2021.03)
 
-National Project, [No. 202119145011X](http://gjcxcy.bjtu.edu.cn/NewJTItemListForStudentDetail.aspx?ItemNo=851412&year=2021&type=school&IsLXItem=0), Supervisor: Prof. LU Ning.          
+National Project, [No. 202119145011X](http://gjcxcy.bjtu.edu.cn/NewJTItemListForStudentDetail.aspx?ItemNo=851412&year=2021&type=school&IsLXItem=0), Supervisor: Prof. LU Ning, Advisor: Dr. FAN Kuan.          
 
 * Research on implementation of a secure backup system via IPFS, which also uploads proof of backup process on Ethereum to ensure tamper-proof and traceability, and encrypts the objectives via asymmetric encryption algorithm SM2. Individually mainly focus on topic selection, node establishment, and cryptography research.     
 * Derivative Publication: Zhengyu Hu, Wenrui Liu, **Shengchen Ling**, Kuan Fan, “_Research on multi-objective optimal scheduling considering the balance of labor workload distribution_”, PLOS ONE, August 5, 2021, [https://doi.org/10.1371/journal.pone.0255737](https://doi.org/10.1371/journal.pone.0255737). Individually mainly focus on formal analysis, verifications, and writing & reviewing.      
