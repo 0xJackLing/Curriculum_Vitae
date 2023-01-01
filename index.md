@@ -8,7 +8,7 @@ Email: shengling2-c@my.cityu.edu.hk
 ### City University of Hong Kong (2022.08 - 2023.06) 
 
 M.S. Electronic Commerce, Department of Computer Science       
-GPA  
+GPA 3.65  
 
 ### Northeastern University, China (2018.09 - 2022.06)
 
